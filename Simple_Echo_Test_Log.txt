@@ -1,0 +1,1344 @@
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 0 Accept : 0 MemoryAlloc : 1 MemoryUse : 0
+PacketAlloc : 1 PacketUse : 0 PlayerAlloc : 1 PlayerUse : 0
+Auth : 1 Game : 1
+SesQueAlloc : 200 SesQueUse : 200
+SesStackAlloc : 1 SesStackUse : 0
+Total Connect : 0 Accept : 0
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 0 Accept : 0 MemoryAlloc : 1 MemoryUse : 0
+PacketAlloc : 1 PacketUse : 0 PlayerAlloc : 1 PlayerUse : 0
+Auth : 1 Game : 1
+SesQueAlloc : 200 SesQueUse : 200
+SesStackAlloc : 1 SesStackUse : 0
+Total Connect : 0 Accept : 0
+
+Send : 11674 byte/s Recv : 600000 byte/s Auth : 100 fps Game : 500 fps
+Session : 1000 Accept : 1000 MemoryAlloc : 10 MemoryUse : 9
+PacketAlloc : 10 PacketUse : 8 PlayerAlloc : 10 PlayerUse : 10
+Auth : 7 Game : 10
+SesQueAlloc : 202 SesQueUse : 200
+SesStackAlloc : 10 SesStackUse : 10
+Total Connect : 1000 Accept : 1000
+
+Send : 130099 byte/s Recv : 25357000 byte/s Auth : 1700 fps Game : 23657 fps
+Session : 4698 Accept : 4698 MemoryAlloc : 210 MemoryUse : 210
+PacketAlloc : 11 PacketUse : 9 PlayerAlloc : 47 PlayerUse : 47
+Auth : 9 Game : 10
+SesQueAlloc : 391 SesQueUse : 391
+SesStackAlloc : 64 SesStackUse : 64
+Total Connect : 4698 Accept : 4698
+
+Send : 621159 byte/s Recv : 31882000 byte/s Auth : 500 fps Game : 31384 fps
+Session : 4800 Accept : 4800 MemoryAlloc : 446 MemoryUse : 435
+PacketAlloc : 11 PacketUse : 9 PlayerAlloc : 48 PlayerUse : 48
+Auth : 9 Game : 10
+SesQueAlloc : 530 SesQueUse : 384
+SesStackAlloc : 291 SesStackUse : 157
+Total Connect : 4800 Accept : 4800
+
+Send : 375902 byte/s Recv : 36692000 byte/s Auth : 50 fps Game : 36643 fps
+Session : 4872 Accept : 4872 MemoryAlloc : 603 MemoryUse : 509
+PacketAlloc : 11 PacketUse : 10 PlayerAlloc : 49 PlayerUse : 49
+Auth : 9 Game : 10
+SesQueAlloc : 672 SesQueUse : 595
+SesStackAlloc : 364 SesStackUse : 364
+Total Connect : 4872 Accept : 4872
+
+Send : 975218 byte/s Recv : 31553000 byte/s Auth : 0 fps Game : 31553 fps
+Session : 4940 Accept : 4940 MemoryAlloc : 603 MemoryUse : 436
+PacketAlloc : 11 PacketUse : 10 PlayerAlloc : 50 PlayerUse : 50
+Auth : 9 Game : 11
+SesQueAlloc : 672 SesQueUse : 551
+SesStackAlloc : 427 SesStackUse : 85
+Total Connect : 4940 Accept : 4940
+
+Send : 165590 byte/s Recv : 21252000 byte/s Auth : 2229 fps Game : 19028 fps
+Session : 4991 Accept : 4991 MemoryAlloc : 603 MemoryUse : 533
+PacketAlloc : 11 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 11
+SesQueAlloc : 700 SesQueUse : 393
+SesStackAlloc : 463 SesStackUse : 463
+Total Connect : 4991 Accept : 4991
+
+Send : 683298 byte/s Recv : 29229000 byte/s Auth : 0 fps Game : 29233 fps
+Session : 4999 Accept : 4999 MemoryAlloc : 785 MemoryUse : 784
+PacketAlloc : 12 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 11
+SesQueAlloc : 700 SesQueUse : 624
+SesStackAlloc : 469 SesStackUse : 198
+Total Connect : 4999 Accept : 4999
+
+Send : 198423 byte/s Recv : 39800000 byte/s Auth : 0 fps Game : 39799 fps
+Session : 4999 Accept : 4999 MemoryAlloc : 1020 MemoryUse : 962
+PacketAlloc : 12 PacketUse : 10 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 11
+SesQueAlloc : 991 SesQueUse : 991
+SesStackAlloc : 469 SesStackUse : 143
+Total Connect : 4999 Accept : 4999
+
+Send : 20697 byte/s Recv : 20439000 byte/s Auth : 50 fps Game : 20390 fps
+Session : 5000 Accept : 5000 MemoryAlloc : 1117 MemoryUse : 1117
+PacketAlloc : 12 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 11
+SesQueAlloc : 1192 SesQueUse : 1150
+SesStackAlloc : 469 SesStackUse : 241
+Total Connect : 5000 Accept : 5000
+
+Send : 500325 byte/s Recv : 13395000 byte/s Auth : 0 fps Game : 13412 fps
+Session : 5000 Accept : 5000 MemoryAlloc : 1136 MemoryUse : 1104
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 17
+SesQueAlloc : 1192 SesQueUse : 594
+SesStackAlloc : 948 SesStackUse : 853
+Total Connect : 5000 Accept : 5000
+
+Send : 1297081 byte/s Recv : 38892000 byte/s Auth : 0 fps Game : 38892 fps
+Session : 5000 Accept : 5000 MemoryAlloc : 1357 MemoryUse : 1357
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 17
+SesQueAlloc : 1192 SesQueUse : 785
+SesStackAlloc : 948 SesStackUse : 324
+Total Connect : 5000 Accept : 5000
+
+Send : 391890 byte/s Recv : 21803000 byte/s Auth : 0 fps Game : 21805 fps
+Session : 5000 Accept : 5000 MemoryAlloc : 1457 MemoryUse : 1349
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 50 PlayerUse : 50
+Auth : 11 Game : 17
+SesQueAlloc : 1192 SesQueUse : 951
+SesStackAlloc : 948 SesStackUse : 183
+Total Connect : 5000 Accept : 5000
+
+Send : 220386 byte/s Recv : 28471000 byte/s Auth : 0 fps Game : 28472 fps
+Session : 5011 Accept : 5011 MemoryAlloc : 1457 MemoryUse : 1144
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 51 PlayerUse : 51
+Auth : 11 Game : 17
+SesQueAlloc : 1192 SesQueUse : 1190
+SesStackAlloc : 948 SesStackUse : 96
+Total Connect : 5011 Accept : 5011
+
+Send : 444199 byte/s Recv : 11009000 byte/s Auth : 0 fps Game : 11028 fps
+Session : 5200 Accept : 5200 MemoryAlloc : 1457 MemoryUse : 1016
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 52 PlayerUse : 52
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 631
+SesStackAlloc : 948 SesStackUse : 831
+Total Connect : 5200 Accept : 5200
+
+Send : 1176933 byte/s Recv : 37537000 byte/s Auth : 0 fps Game : 37537 fps
+Session : 5200 Accept : 5200 MemoryAlloc : 1457 MemoryUse : 1116
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 52 PlayerUse : 52
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 728
+SesStackAlloc : 948 SesStackUse : 283
+Total Connect : 5200 Accept : 5200
+
+Send : 472834 byte/s Recv : 44486000 byte/s Auth : 0 fps Game : 44486 fps
+Session : 5201 Accept : 5201 MemoryAlloc : 1457 MemoryUse : 1285
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 53 PlayerUse : 53
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1099
+SesStackAlloc : 948 SesStackUse : 111
+Total Connect : 5201 Accept : 5201
+
+Send : 354591 byte/s Recv : 13549000 byte/s Auth : 0 fps Game : 13547 fps
+Session : 5400 Accept : 5400 MemoryAlloc : 1457 MemoryUse : 1011
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 54 PlayerUse : 54
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 623
+SesStackAlloc : 948 SesStackUse : 891
+Total Connect : 5400 Accept : 5400
+
+Send : 1204165 byte/s Recv : 32112000 byte/s Auth : 0 fps Game : 32113 fps
+Session : 5400 Accept : 5400 MemoryAlloc : 1457 MemoryUse : 1293
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 54 PlayerUse : 54
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 630
+SesStackAlloc : 948 SesStackUse : 296
+Total Connect : 5400 Accept : 5400
+
+Send : 293986 byte/s Recv : 30775000 byte/s Auth : 0 fps Game : 30775 fps
+Session : 5400 Accept : 5400 MemoryAlloc : 1457 MemoryUse : 1361
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 54 PlayerUse : 54
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 922
+SesStackAlloc : 948 SesStackUse : 175
+Total Connect : 5400 Accept : 5400
+
+Send : 220432 byte/s Recv : 27078000 byte/s Auth : 0 fps Game : 27078 fps
+Session : 5500 Accept : 5500 MemoryAlloc : 1457 MemoryUse : 1023
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 55 PlayerUse : 55
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1129
+SesStackAlloc : 948 SesStackUse : 272
+Total Connect : 5500 Accept : 5500
+
+Send : 1189123 byte/s Recv : 18627000 byte/s Auth : 0 fps Game : 18643 fps
+Session : 5600 Accept : 5600 MemoryAlloc : 1457 MemoryUse : 993
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 56 PlayerUse : 56
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 630
+SesStackAlloc : 948 SesStackUse : 519
+Total Connect : 5600 Accept : 5600
+
+Send : 774364 byte/s Recv : 45837000 byte/s Auth : 0 fps Game : 45836 fps
+Session : 5600 Accept : 5600 MemoryAlloc : 1457 MemoryUse : 1116
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 56 PlayerUse : 56
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 849
+SesStackAlloc : 948 SesStackUse : 206
+Total Connect : 5600 Accept : 5600
+
+Send : 272389 byte/s Recv : 34001000 byte/s Auth : 0 fps Game : 34001 fps
+Session : 5700 Accept : 5700 MemoryAlloc : 1457 MemoryUse : 1017
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 57 PlayerUse : 57
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1159
+SesStackAlloc : 948 SesStackUse : 155
+Total Connect : 5700 Accept : 5700
+
+Send : 1054205 byte/s Recv : 13966000 byte/s Auth : 0 fps Game : 13979 fps
+Session : 5800 Accept : 5800 MemoryAlloc : 1457 MemoryUse : 1046
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 58 PlayerUse : 58
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 558
+SesStackAlloc : 948 SesStackUse : 588
+Total Connect : 5800 Accept : 5800
+
+Send : 1087187 byte/s Recv : 44156000 byte/s Auth : 0 fps Game : 44156 fps
+Session : 5800 Accept : 5800 MemoryAlloc : 1457 MemoryUse : 1042
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 58 PlayerUse : 58
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 763
+SesStackAlloc : 948 SesStackUse : 154
+Total Connect : 5800 Accept : 5800
+
+Send : 133561 byte/s Recv : 30886000 byte/s Auth : 0 fps Game : 30886 fps
+Session : 5900 Accept : 5900 MemoryAlloc : 1457 MemoryUse : 959
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 59 PlayerUse : 59
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1067
+SesStackAlloc : 948 SesStackUse : 97
+Total Connect : 5900 Accept : 5900
+
+Send : 216614 byte/s Recv : 17374000 byte/s Auth : 0 fps Game : 17389 fps
+Session : 6000 Accept : 6000 MemoryAlloc : 1457 MemoryUse : 1020
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 60 PlayerUse : 60
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 759
+SesStackAlloc : 948 SesStackUse : 926
+Total Connect : 6000 Accept : 6000
+
+Send : 1249383 byte/s Recv : 46338000 byte/s Auth : 0 fps Game : 46339 fps
+Session : 6000 Accept : 6000 MemoryAlloc : 1457 MemoryUse : 994
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 60 PlayerUse : 60
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 773
+SesStackAlloc : 948 SesStackUse : 160
+Total Connect : 6000 Accept : 6000
+
+Send : 148304 byte/s Recv : 33527000 byte/s Auth : 0 fps Game : 33528 fps
+Session : 6100 Accept : 6100 MemoryAlloc : 1457 MemoryUse : 1087
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 61 PlayerUse : 61
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1099
+SesStackAlloc : 948 SesStackUse : 97
+Total Connect : 6100 Accept : 6100
+
+Send : 327911 byte/s Recv : 14310000 byte/s Auth : 0 fps Game : 14321 fps
+Session : 6200 Accept : 6200 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 62 PlayerUse : 62
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 708
+SesStackAlloc : 948 SesStackUse : 879
+Total Connect : 6200 Accept : 6200
+
+Send : 1192504 byte/s Recv : 43252000 byte/s Auth : 0 fps Game : 43253 fps
+Session : 6204 Accept : 6204 MemoryAlloc : 1457 MemoryUse : 937
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 63 PlayerUse : 63
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 751
+SesStackAlloc : 948 SesStackUse : 151
+Total Connect : 6204 Accept : 6204
+
+Send : 112125 byte/s Recv : 40560000 byte/s Auth : 0 fps Game : 40560 fps
+Session : 6300 Accept : 6300 MemoryAlloc : 1457 MemoryUse : 1007
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 63 PlayerUse : 63
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1144
+SesStackAlloc : 948 SesStackUse : 96
+Total Connect : 6300 Accept : 6300
+
+Send : 220547 byte/s Recv : 9848000 byte/s Auth : 0 fps Game : 9871 fps
+Session : 6400 Accept : 6400 MemoryAlloc : 1457 MemoryUse : 1015
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 64 PlayerUse : 64
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 769
+SesStackAlloc : 948 SesStackUse : 921
+Total Connect : 6400 Accept : 6400
+
+Send : 1344143 byte/s Recv : 43943000 byte/s Auth : 0 fps Game : 43944 fps
+Session : 6400 Accept : 6400 MemoryAlloc : 1457 MemoryUse : 1038
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 64 PlayerUse : 64
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 757
+SesStackAlloc : 948 SesStackUse : 192
+Total Connect : 6400 Accept : 6400
+
+Send : 190095 byte/s Recv : 28602000 byte/s Auth : 0 fps Game : 28603 fps
+Session : 6493 Accept : 6493 MemoryAlloc : 1457 MemoryUse : 1023
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 65 PlayerUse : 65
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1018
+SesStackAlloc : 948 SesStackUse : 107
+Total Connect : 6493 Accept : 6493
+
+Send : 42872 byte/s Recv : 14365000 byte/s Auth : 0 fps Game : 14364 fps
+Session : 6500 Accept : 6500 MemoryAlloc : 1457 MemoryUse : 1014
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 65 PlayerUse : 65
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1138
+SesStackAlloc : 948 SesStackUse : 159
+Total Connect : 6500 Accept : 6500
+
+Send : 645679 byte/s Recv : 11845000 byte/s Auth : 0 fps Game : 11867 fps
+Session : 6600 Accept : 6600 MemoryAlloc : 1457 MemoryUse : 1010
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 66 PlayerUse : 66
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 679
+SesStackAlloc : 948 SesStackUse : 745
+Total Connect : 6600 Accept : 6600
+
+Send : 1234042 byte/s Recv : 43133000 byte/s Auth : 0 fps Game : 43134 fps
+Session : 6600 Accept : 6600 MemoryAlloc : 1457 MemoryUse : 1032
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 66 PlayerUse : 66
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 755
+SesStackAlloc : 948 SesStackUse : 203
+Total Connect : 6600 Accept : 6600
+
+Send : 254748 byte/s Recv : 42416000 byte/s Auth : 0 fps Game : 42416 fps
+Session : 6700 Accept : 6700 MemoryAlloc : 1457 MemoryUse : 1006
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 67 PlayerUse : 67
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1148
+SesStackAlloc : 948 SesStackUse : 94
+Total Connect : 6700 Accept : 6700
+
+Send : 338238 byte/s Recv : 9627000 byte/s Auth : 0 fps Game : 9633 fps
+Session : 6800 Accept : 6800 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 68 PlayerUse : 68
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 767
+SesStackAlloc : 948 SesStackUse : 869
+Total Connect : 6800 Accept : 6800
+
+Send : 1241356 byte/s Recv : 40178000 byte/s Auth : 0 fps Game : 40179 fps
+Session : 6800 Accept : 6800 MemoryAlloc : 1457 MemoryUse : 1321
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 68 PlayerUse : 68
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 729
+SesStackAlloc : 948 SesStackUse : 274
+Total Connect : 6800 Accept : 6800
+
+Send : 431940 byte/s Recv : 43298000 byte/s Auth : 0 fps Game : 43300 fps
+Session : 6900 Accept : 6900 MemoryAlloc : 1457 MemoryUse : 1026
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 69 PlayerUse : 69
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1115
+SesStackAlloc : 948 SesStackUse : 93
+Total Connect : 6900 Accept : 6900
+
+Send : 320712 byte/s Recv : 12097000 byte/s Auth : 0 fps Game : 12107 fps
+Session : 7000 Accept : 7000 MemoryAlloc : 1457 MemoryUse : 1010
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 70 PlayerUse : 70
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 800
+SesStackAlloc : 948 SesStackUse : 873
+Total Connect : 7000 Accept : 7000
+
+Send : 1104782 byte/s Recv : 37772000 byte/s Auth : 0 fps Game : 37776 fps
+Session : 7000 Accept : 7000 MemoryAlloc : 1457 MemoryUse : 948
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 70 PlayerUse : 70
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 752
+SesStackAlloc : 948 SesStackUse : 250
+Total Connect : 7000 Accept : 7000
+
+Send : 333960 byte/s Recv : 37135000 byte/s Auth : 0 fps Game : 37135 fps
+Session : 7100 Accept : 7100 MemoryAlloc : 1457 MemoryUse : 981
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 71 PlayerUse : 71
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1056
+SesStackAlloc : 948 SesStackUse : 112
+Total Connect : 7100 Accept : 7100
+
+Send : 237429 byte/s Recv : 16741000 byte/s Auth : 0 fps Game : 16753 fps
+Session : 7200 Accept : 7200 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 72 PlayerUse : 72
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 844
+SesStackAlloc : 948 SesStackUse : 923
+Total Connect : 7200 Accept : 7200
+
+Send : 1128173 byte/s Recv : 43769000 byte/s Auth : 0 fps Game : 66397 fps
+Session : 7201 Accept : 7201 MemoryAlloc : 1457 MemoryUse : 992
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 73 PlayerUse : 73
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 783
+SesStackAlloc : 948 SesStackUse : 225
+Total Connect : 7201 Accept : 7201
+
+Send : 306107 byte/s Recv : 41044000 byte/s Auth : 0 fps Game : 41044 fps
+Session : 7300 Accept : 7300 MemoryAlloc : 1457 MemoryUse : 1028
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 73 PlayerUse : 73
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1151
+SesStackAlloc : 948 SesStackUse : 108
+Total Connect : 7300 Accept : 7300
+
+Send : 342792 byte/s Recv : 9807000 byte/s Auth : 0 fps Game : 9817 fps
+Session : 7400 Accept : 7400 MemoryAlloc : 1457 MemoryUse : 1007
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 74 PlayerUse : 74
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 794
+SesStackAlloc : 948 SesStackUse : 862
+Total Connect : 7400 Accept : 7400
+
+Send : 1225463 byte/s Recv : 42268000 byte/s Auth : 0 fps Game : 42272 fps
+Session : 7400 Accept : 7400 MemoryAlloc : 1457 MemoryUse : 1014
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 74 PlayerUse : 74
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 767
+SesStackAlloc : 948 SesStackUse : 251
+Total Connect : 7400 Accept : 7400
+
+Send : 358915 byte/s Recv : 38019000 byte/s Auth : 0 fps Game : 38018 fps
+Session : 7500 Accept : 7500 MemoryAlloc : 1457 MemoryUse : 1007
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 75 PlayerUse : 75
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1106
+SesStackAlloc : 948 SesStackUse : 99
+Total Connect : 7500 Accept : 7500
+
+Send : 194511 byte/s Recv : 12679000 byte/s Auth : 0 fps Game : 12687 fps
+Session : 7600 Accept : 7600 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 76 PlayerUse : 76
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 879
+SesStackAlloc : 948 SesStackUse : 880
+Total Connect : 7600 Accept : 7600
+
+Send : 1095513 byte/s Recv : 17384000 byte/s Auth : 0 fps Game : 17387 fps
+Session : 7600 Accept : 7600 MemoryAlloc : 1457 MemoryUse : 1005
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 76 PlayerUse : 76
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 665
+SesStackAlloc : 948 SesStackUse : 509
+Total Connect : 7600 Accept : 7600
+
+Send : 825930 byte/s Recv : 42653000 byte/s Auth : 0 fps Game : 42654 fps
+Session : 7608 Accept : 7608 MemoryAlloc : 1457 MemoryUse : 949
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 77 PlayerUse : 77
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 877
+SesStackAlloc : 948 SesStackUse : 164
+Total Connect : 7608 Accept : 7608
+
+Send : 182229 byte/s Recv : 30269000 byte/s Auth : 0 fps Game : 30269 fps
+Session : 7700 Accept : 7700 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 77 PlayerUse : 77
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1136
+SesStackAlloc : 948 SesStackUse : 157
+Total Connect : 7700 Accept : 7700
+
+Send : 489601 byte/s Recv : 10665000 byte/s Auth : 0 fps Game : 10673 fps
+Session : 7800 Accept : 7800 MemoryAlloc : 1457 MemoryUse : 1014
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 78 PlayerUse : 78
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 789
+SesStackAlloc : 948 SesStackUse : 797
+Total Connect : 7800 Accept : 7800
+
+Send : 1069891 byte/s Recv : 39932000 byte/s Auth : 0 fps Game : 39933 fps
+Session : 7800 Accept : 7800 MemoryAlloc : 1457 MemoryUse : 993
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 78 PlayerUse : 78
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 774
+SesStackAlloc : 948 SesStackUse : 312
+Total Connect : 7800 Accept : 7800
+
+Send : 475157 byte/s Recv : 40932000 byte/s Auth : 0 fps Game : 40932 fps
+Session : 7900 Accept : 7900 MemoryAlloc : 1457 MemoryUse : 992
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 79 PlayerUse : 79
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1109
+SesStackAlloc : 948 SesStackUse : 96
+Total Connect : 7900 Accept : 7900
+
+Send : 263603 byte/s Recv : 12440000 byte/s Auth : 0 fps Game : 12452 fps
+Session : 8000 Accept : 8000 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 80 PlayerUse : 80
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 849
+SesStackAlloc : 948 SesStackUse : 900
+Total Connect : 8000 Accept : 8000
+
+Send : 1079206 byte/s Recv : 37083000 byte/s Auth : 0 fps Game : 37083 fps
+Session : 8000 Accept : 8000 MemoryAlloc : 1457 MemoryUse : 982
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 80 PlayerUse : 80
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 775
+SesStackAlloc : 948 SesStackUse : 334
+Total Connect : 8000 Accept : 8000
+
+Send : 526194 byte/s Recv : 39816000 byte/s Auth : 0 fps Game : 39815 fps
+Session : 8100 Accept : 8100 MemoryAlloc : 1457 MemoryUse : 987
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 81 PlayerUse : 81
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1064
+SesStackAlloc : 948 SesStackUse : 110
+Total Connect : 8100 Accept : 8100
+
+Send : 237889 byte/s Recv : 16448000 byte/s Auth : 0 fps Game : 16461 fps
+Session : 8200 Accept : 8200 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 82 PlayerUse : 82
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 875
+SesStackAlloc : 948 SesStackUse : 924
+Total Connect : 8200 Accept : 8200
+
+Send : 1108347 byte/s Recv : 38738000 byte/s Auth : 0 fps Game : 38740 fps
+Session : 8200 Accept : 8200 MemoryAlloc : 1457 MemoryUse : 964
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 82 PlayerUse : 82
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 778
+SesStackAlloc : 948 SesStackUse : 302
+Total Connect : 8200 Accept : 8200
+
+Send : 422188 byte/s Recv : 38862000 byte/s Auth : 0 fps Game : 38862 fps
+Session : 8300 Accept : 8300 MemoryAlloc : 1457 MemoryUse : 1022
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 83 PlayerUse : 83
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1082
+SesStackAlloc : 948 SesStackUse : 116
+Total Connect : 8300 Accept : 8300
+
+Send : 218546 byte/s Recv : 15932000 byte/s Auth : 0 fps Game : 15939 fps
+Session : 8400 Accept : 8400 MemoryAlloc : 1457 MemoryUse : 1006
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 84 PlayerUse : 84
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 880
+SesStackAlloc : 948 SesStackUse : 914
+Total Connect : 8400 Accept : 8400
+
+Send : 1037254 byte/s Recv : 16370000 byte/s Auth : 0 fps Game : 16371 fps
+Session : 8400 Accept : 8400 MemoryAlloc : 1457 MemoryUse : 990
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 84 PlayerUse : 84
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 645
+SesStackAlloc : 948 SesStackUse : 532
+Total Connect : 8400 Accept : 8400
+
+Send : 658996 byte/s Recv : 38988000 byte/s Auth : 0 fps Game : 38989 fps
+Session : 8401 Accept : 8401 MemoryAlloc : 1457 MemoryUse : 1047
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 85 PlayerUse : 85
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 864
+SesStackAlloc : 948 SesStackUse : 247
+Total Connect : 8401 Accept : 8401
+
+Send : 381984 byte/s Recv : 34575000 byte/s Auth : 0 fps Game : 34576 fps
+Session : 8500 Accept : 8500 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 85 PlayerUse : 85
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1148
+SesStackAlloc : 948 SesStackUse : 109
+Total Connect : 8500 Accept : 8500
+
+Send : 334374 byte/s Recv : 9532000 byte/s Auth : 0 fps Game : 9543 fps
+Session : 8600 Accept : 8600 MemoryAlloc : 1457 MemoryUse : 1003
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 86 PlayerUse : 86
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 837
+SesStackAlloc : 948 SesStackUse : 866
+Total Connect : 8600 Accept : 8600
+
+Send : 1130726 byte/s Recv : 35277000 byte/s Auth : 0 fps Game : 35277 fps
+Session : 8600 Accept : 8600 MemoryAlloc : 1457 MemoryUse : 975
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 86 PlayerUse : 86
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 773
+SesStackAlloc : 948 SesStackUse : 354
+Total Connect : 8600 Accept : 8600
+
+Send : 513475 byte/s Recv : 40106000 byte/s Auth : 0 fps Game : 40106 fps
+Session : 8700 Accept : 8700 MemoryAlloc : 1457 MemoryUse : 990
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 87 PlayerUse : 87
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1052
+SesStackAlloc : 948 SesStackUse : 135
+Total Connect : 8700 Accept : 8700
+
+Send : 283291 byte/s Recv : 18573000 byte/s Auth : 0 fps Game : 18581 fps
+Session : 8708 Accept : 8708 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 88 PlayerUse : 88
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 914
+SesStackAlloc : 948 SesStackUse : 805
+Total Connect : 8708 Accept : 8708
+
+Send : 759046 byte/s Recv : 11120000 byte/s Auth : 0 fps Game : 11120 fps
+Session : 8800 Accept : 8800 MemoryAlloc : 1457 MemoryUse : 1015
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 88 PlayerUse : 88
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 733
+SesStackAlloc : 948 SesStackUse : 626
+Total Connect : 8800 Accept : 8800
+
+Send : 718520 byte/s Recv : 38987000 byte/s Auth : 0 fps Game : 38987 fps
+Session : 8800 Accept : 8800 MemoryAlloc : 1457 MemoryUse : 1027
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 88 PlayerUse : 88
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 864
+SesStackAlloc : 948 SesStackUse : 325
+Total Connect : 8800 Accept : 8800
+
+Send : 544755 byte/s Recv : 38015000 byte/s Auth : 0 fps Game : 38016 fps
+Session : 8900 Accept : 8900 MemoryAlloc : 1457 MemoryUse : 991
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 89 PlayerUse : 89
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1130
+SesStackAlloc : 948 SesStackUse : 94
+Total Connect : 8900 Accept : 8900
+
+Send : 235888 byte/s Recv : 10474000 byte/s Auth : 0 fps Game : 10485 fps
+Session : 9000 Accept : 9000 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 90 PlayerUse : 90
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 862
+SesStackAlloc : 948 SesStackUse : 907
+Total Connect : 9000 Accept : 9000
+
+Send : 1031964 byte/s Recv : 35163000 byte/s Auth : 0 fps Game : 35163 fps
+Session : 9000 Accept : 9000 MemoryAlloc : 1457 MemoryUse : 981
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 90 PlayerUse : 90
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 795
+SesStackAlloc : 948 SesStackUse : 391
+Total Connect : 9000 Accept : 9000
+
+Send : 596505 byte/s Recv : 40587000 byte/s Auth : 0 fps Game : 40588 fps
+Session : 9100 Accept : 9100 MemoryAlloc : 1457 MemoryUse : 1018
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 91 PlayerUse : 91
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1055
+SesStackAlloc : 948 SesStackUse : 140
+Total Connect : 9100 Accept : 9100
+
+Send : 290559 byte/s Recv : 18427000 byte/s Auth : 0 fps Game : 18432 fps
+Session : 9108 Accept : 9108 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 92 PlayerUse : 92
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 928
+SesStackAlloc : 948 SesStackUse : 791
+Total Connect : 9108 Accept : 9108
+
+Send : 800009 byte/s Recv : 10100000 byte/s Auth : 0 fps Game : 10103 fps
+Session : 9200 Accept : 9200 MemoryAlloc : 1457 MemoryUse : 998
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 92 PlayerUse : 92
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 726
+SesStackAlloc : 948 SesStackUse : 611
+Total Connect : 9200 Accept : 9200
+
+Send : 725420 byte/s Recv : 38786000 byte/s Auth : 0 fps Game : 38788 fps
+Session : 9200 Accept : 9200 MemoryAlloc : 1457 MemoryUse : 967
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 92 PlayerUse : 92
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 843
+SesStackAlloc : 948 SesStackUse : 327
+Total Connect : 9200 Accept : 9200
+
+Send : 549884 byte/s Recv : 37772000 byte/s Auth : 0 fps Game : 37772 fps
+Session : 9300 Accept : 9300 MemoryAlloc : 1457 MemoryUse : 998
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 93 PlayerUse : 93
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1118
+SesStackAlloc : 948 SesStackUse : 99
+Total Connect : 9300 Accept : 9300
+
+Send : 211002 byte/s Recv : 11716000 byte/s Auth : 0 fps Game : 11729 fps
+Session : 9400 Accept : 9400 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 94 PlayerUse : 94
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 879
+SesStackAlloc : 948 SesStackUse : 919
+Total Connect : 9400 Accept : 9400
+
+Send : 1117202 byte/s Recv : 29147000 byte/s Auth : 0 fps Game : 29147 fps
+Session : 9400 Accept : 9400 MemoryAlloc : 1457 MemoryUse : 991
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 94 PlayerUse : 94
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 756
+SesStackAlloc : 948 SesStackUse : 430
+Total Connect : 9400 Accept : 9400
+
+Send : 649405 byte/s Recv : 39581000 byte/s Auth : 0 fps Game : 39581 fps
+Session : 9411 Accept : 9411 MemoryAlloc : 1457 MemoryUse : 981
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 95 PlayerUse : 95
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 985
+SesStackAlloc : 948 SesStackUse : 156
+Total Connect : 9411 Accept : 9411
+
+Send : 207345 byte/s Recv : 21222000 byte/s Auth : 0 fps Game : 21223 fps
+Session : 9500 Accept : 9500 MemoryAlloc : 1457 MemoryUse : 1008
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 95 PlayerUse : 95
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1075
+SesStackAlloc : 948 SesStackUse : 339
+Total Connect : 9500 Accept : 9500
+
+Send : 528655 byte/s Recv : 9451000 byte/s Auth : 0 fps Game : 9462 fps
+Session : 9600 Accept : 9600 MemoryAlloc : 1457 MemoryUse : 999
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 96 PlayerUse : 96
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 791
+SesStackAlloc : 948 SesStackUse : 762
+Total Connect : 9600 Accept : 9600
+
+Send : 993968 byte/s Recv : 34659000 byte/s Auth : 0 fps Game : 34659 fps
+Session : 9600 Accept : 9600 MemoryAlloc : 1457 MemoryUse : 951
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 96 PlayerUse : 96
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 783
+SesStackAlloc : 948 SesStackUse : 374
+Total Connect : 9600 Accept : 9600
+
+Send : 565478 byte/s Recv : 38852000 byte/s Auth : 0 fps Game : 38852 fps
+Session : 9700 Accept : 9700 MemoryAlloc : 1457 MemoryUse : 991
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 97 PlayerUse : 97
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1039
+SesStackAlloc : 948 SesStackUse : 140
+Total Connect : 9700 Accept : 9700
+
+Send : 275149 byte/s Recv : 17767000 byte/s Auth : 0 fps Game : 17770 fps
+Session : 9700 Accept : 9700 MemoryAlloc : 1457 MemoryUse : 1011
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 97 PlayerUse : 97
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 969
+SesStackAlloc : 948 SesStackUse : 671
+Total Connect : 9700 Accept : 9700
+
+Send : 604210 byte/s Recv : 8757000 byte/s Auth : 0 fps Game : 8761 fps
+Session : 9800 Accept : 9800 MemoryAlloc : 1457 MemoryUse : 1012
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 98 PlayerUse : 98
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 787
+SesStackAlloc : 948 SesStackUse : 690
+Total Connect : 9800 Accept : 9800
+
+Send : 781172 byte/s Recv : 37376000 byte/s Auth : 0 fps Game : 37376 fps
+Session : 9800 Accept : 9800 MemoryAlloc : 1457 MemoryUse : 986
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 98 PlayerUse : 98
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 852
+SesStackAlloc : 948 SesStackUse : 355
+Total Connect : 9800 Accept : 9800
+
+Send : 613594 byte/s Recv : 37522000 byte/s Auth : 0 fps Game : 37522 fps
+Session : 9900 Accept : 9900 MemoryAlloc : 1457 MemoryUse : 1006
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 99 PlayerUse : 99
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 1092
+SesStackAlloc : 948 SesStackUse : 104
+Total Connect : 9900 Accept : 9900
+
+Send : 198559 byte/s Recv : 13386000 byte/s Auth : 50 fps Game : 13338 fps
+Session : 9908 Accept : 9908 MemoryAlloc : 1457 MemoryUse : 1009
+PacketAlloc : 16 PacketUse : 10 PlayerAlloc : 100 PlayerUse : 100
+Auth : 11 Game : 17
+SesQueAlloc : 1199 SesQueUse : 961
+SesStackAlloc : 948 SesStackUse : 773
+Total Connect : 9908 Accept : 9908
+
+Send : 212727 byte/s Recv : 8623000 byte/s Auth : 4450 fps Game : 4174 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1457 MemoryUse : 1068
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1199 SesQueUse : 860
+SesStackAlloc : 964 SesStackUse : 891
+Total Connect : 10000 Accept : 10000
+
+Send : 539856 byte/s Recv : 19744000 byte/s Auth : 0 fps Game : 19745 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1457 MemoryUse : 1151
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1199 SesQueUse : 861
+SesStackAlloc : 964 SesStackUse : 652
+Total Connect : 10000 Accept : 10000
+
+Send : 450110 byte/s Recv : 26433000 byte/s Auth : 0 fps Game : 26433 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1457 MemoryUse : 1191
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1199 SesQueUse : 977
+SesStackAlloc : 964 SesStackUse : 475
+Total Connect : 10000 Accept : 10000
+
+Send : 328242 byte/s Recv : 30933000 byte/s Auth : 0 fps Game : 30933 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1510 MemoryUse : 1510
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1243 SesQueUse : 1243
+SesStackAlloc : 964 SesStackUse : 356
+Total Connect : 10000 Accept : 10000
+
+Send : 28265 byte/s Recv : 14094000 byte/s Auth : 0 fps Game : 14094 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1660 MemoryUse : 1660
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1383 SesQueUse : 1383
+SesStackAlloc : 964 SesStackUse : 348
+Total Connect : 10000 Accept : 10000
+
+Send : 5861 byte/s Recv : 14803000 byte/s Auth : 0 fps Game : 14802 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1812 MemoryUse : 1812
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1535 SesQueUse : 1535
+SesStackAlloc : 964 SesStackUse : 352
+Total Connect : 10000 Accept : 10000
+
+Send : 2368 byte/s Recv : 14001000 byte/s Auth : 0 fps Game : 14001 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 1955 MemoryUse : 1955
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1678 SesQueUse : 1678
+SesStackAlloc : 964 SesStackUse : 353
+Total Connect : 10000 Accept : 10000
+
+Send : 1568 byte/s Recv : 13988000 byte/s Auth : 0 fps Game : 13988 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2098 MemoryUse : 2098
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1821 SesQueUse : 1821
+SesStackAlloc : 964 SesStackUse : 355
+Total Connect : 10000 Accept : 10000
+
+Send : 80 byte/s Recv : 13520000 byte/s Auth : 0 fps Game : 13520 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2236 MemoryUse : 2236
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 1959 SesQueUse : 1959
+SesStackAlloc : 964 SesStackUse : 355
+Total Connect : 10000 Accept : 10000
+
+Send : 136782 byte/s Recv : 25413000 byte/s Auth : 0 fps Game : 25416 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2487 MemoryUse : 2486
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2167 SesQueUse : 2167
+SesStackAlloc : 964 SesStackUse : 383
+Total Connect : 10000 Accept : 10000
+
+Send : 221817 byte/s Recv : 9578000 byte/s Auth : 0 fps Game : 9578 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2504 MemoryUse : 2156
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2162
+SesStackAlloc : 964 SesStackUse : 741
+Total Connect : 10000 Accept : 10000
+
+Send : 270744 byte/s Recv : 4010000 byte/s Auth : 0 fps Game : 4010 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2504 MemoryUse : 2035
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1830
+SesStackAlloc : 1404 SesStackUse : 1404
+Total Connect : 10000 Accept : 10000
+
+Send : 139383 byte/s Recv : 3710000 byte/s Auth : 0 fps Game : 3711 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2504 MemoryUse : 2037
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1346
+SesStackAlloc : 1934 SesStackUse : 1909
+Total Connect : 10000 Accept : 10000
+
+Send : 900082 byte/s Recv : 27212000 byte/s Auth : 0 fps Game : 27213 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2504 MemoryUse : 2347
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1435
+SesStackAlloc : 1934 SesStackUse : 1413
+Total Connect : 10000 Accept : 10000
+
+Send : 712080 byte/s Recv : 23475000 byte/s Auth : 0 fps Game : 23480 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2581 MemoryUse : 2580
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1606
+SesStackAlloc : 1934 SesStackUse : 1103
+Total Connect : 10000 Accept : 10000
+
+Send : 841662 byte/s Recv : 27892000 byte/s Auth : 0 fps Game : 27901 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2666 MemoryUse : 2651
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1652
+SesStackAlloc : 1934 SesStackUse : 756
+Total Connect : 10000 Accept : 10000
+
+Send : 330326 byte/s Recv : 20761000 byte/s Auth : 0 fps Game : 20761 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2666 MemoryUse : 2589
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1668
+SesStackAlloc : 1934 SesStackUse : 635
+Total Connect : 10000 Accept : 10000
+
+Send : 108537 byte/s Recv : 22416000 byte/s Auth : 0 fps Game : 22421 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2666 MemoryUse : 2637
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1863
+SesStackAlloc : 1934 SesStackUse : 588
+Total Connect : 10000 Accept : 10000
+
+Send : 403466 byte/s Recv : 25373000 byte/s Auth : 0 fps Game : 25377 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2614
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2002
+SesStackAlloc : 1934 SesStackUse : 423
+Total Connect : 10000 Accept : 10000
+
+Send : 462668 byte/s Recv : 24362000 byte/s Auth : 0 fps Game : 24368 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2661
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2068
+SesStackAlloc : 1934 SesStackUse : 222
+Total Connect : 10000 Accept : 10000
+
+Send : 203734 byte/s Recv : 9486000 byte/s Auth : 0 fps Game : 9486 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2235
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2069
+SesStackAlloc : 1934 SesStackUse : 241
+Total Connect : 10000 Accept : 10000
+
+Send : 234554 byte/s Recv : 10526000 byte/s Auth : 0 fps Game : 10529 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2071
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1930
+SesStackAlloc : 1934 SesStackUse : 1429
+Total Connect : 10000 Accept : 10000
+
+Send : 513958 byte/s Recv : 6334000 byte/s Auth : 0 fps Game : 6342 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2028
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1404
+SesStackAlloc : 1934 SesStackUse : 1698
+Total Connect : 10000 Accept : 10000
+
+Send : 725926 byte/s Recv : 25440000 byte/s Auth : 0 fps Game : 25446 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2011
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1289
+SesStackAlloc : 1934 SesStackUse : 1384
+Total Connect : 10000 Accept : 10000
+
+Send : 928441 byte/s Recv : 23767000 byte/s Auth : 0 fps Game : 23768 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2246
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1293
+SesStackAlloc : 1934 SesStackUse : 983
+Total Connect : 10000 Accept : 10000
+
+Send : 485116 byte/s Recv : 16035000 byte/s Auth : 0 fps Game : 16035 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2389
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1340
+SesStackAlloc : 1934 SesStackUse : 794
+Total Connect : 10000 Accept : 10000
+
+Send : 226366 byte/s Recv : 18554000 byte/s Auth : 0 fps Game : 18554 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2531
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1484
+SesStackAlloc : 1934 SesStackUse : 688
+Total Connect : 10000 Accept : 10000
+
+Send : 226872 byte/s Recv : 30693000 byte/s Auth : 0 fps Game : 30696 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2701 MemoryUse : 2682
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1745
+SesStackAlloc : 1934 SesStackUse : 593
+Total Connect : 10000 Accept : 10000
+
+Send : 458597 byte/s Recv : 29668000 byte/s Auth : 0 fps Game : 29671 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2730
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1970
+SesStackAlloc : 1934 SesStackUse : 403
+Total Connect : 10000 Accept : 10000
+
+Send : 412183 byte/s Recv : 18575000 byte/s Auth : 0 fps Game : 18578 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2505
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2061
+SesStackAlloc : 1934 SesStackUse : 233
+Total Connect : 10000 Accept : 10000
+
+Send : 215648 byte/s Recv : 12130000 byte/s Auth : 0 fps Game : 12130 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2023
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2086
+SesStackAlloc : 1934 SesStackUse : 323
+Total Connect : 10000 Accept : 10000
+
+Send : 211623 byte/s Recv : 9343000 byte/s Auth : 0 fps Game : 9344 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2023
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1886
+SesStackAlloc : 1934 SesStackUse : 1381
+Total Connect : 10000 Accept : 10000
+
+Send : 429502 byte/s Recv : 5865000 byte/s Auth : 0 fps Game : 5871 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2033
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1643
+SesStackAlloc : 1934 SesStackUse : 1723
+Total Connect : 10000 Accept : 10000
+
+Send : 722177 byte/s Recv : 24434000 byte/s Auth : 0 fps Game : 24435 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2005
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1488
+SesStackAlloc : 1934 SesStackUse : 1405
+Total Connect : 10000 Accept : 10000
+
+Send : 813188 byte/s Recv : 22731000 byte/s Auth : 0 fps Game : 22730 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2052
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1424
+SesStackAlloc : 1934 SesStackUse : 1058
+Total Connect : 10000 Accept : 10000
+
+Send : 761323 byte/s Recv : 35579000 byte/s Auth : 0 fps Game : 35581 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2338
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1550
+SesStackAlloc : 1934 SesStackUse : 750
+Total Connect : 10000 Accept : 10000
+
+Send : 120175 byte/s Recv : 20280000 byte/s Auth : 0 fps Game : 20281 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2516
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1733
+SesStackAlloc : 1934 SesStackUse : 691
+Total Connect : 10000 Accept : 10000
+
+Send : 131376 byte/s Recv : 15479000 byte/s Auth : 0 fps Game : 15479 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2561
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1852
+SesStackAlloc : 1934 SesStackUse : 632
+Total Connect : 10000 Accept : 10000
+
+Send : 351578 byte/s Recv : 14189000 byte/s Auth : 0 fps Game : 14190 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2443
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1915
+SesStackAlloc : 1934 SesStackUse : 490
+Total Connect : 10000 Accept : 10000
+
+Send : 453997 byte/s Recv : 19337000 byte/s Auth : 0 fps Game : 19337 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2271
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1967
+SesStackAlloc : 1934 SesStackUse : 304
+Total Connect : 10000 Accept : 10000
+
+Send : 352820 byte/s Recv : 22581000 byte/s Auth : 0 fps Game : 22581 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2015
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2107
+SesStackAlloc : 1934 SesStackUse : 148
+Total Connect : 10000 Accept : 10000
+
+Send : 120106 byte/s Recv : 5104000 byte/s Auth : 0 fps Game : 5105 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2011
+PacketAlloc : 16 PacketUse : 8 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1842
+SesStackAlloc : 1934 SesStackUse : 854
+Total Connect : 10000 Accept : 10000
+
+Send : 336513 byte/s Recv : 8740000 byte/s Auth : 0 fps Game : 8752 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2010
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1622
+SesStackAlloc : 1934 SesStackUse : 1797
+Total Connect : 10000 Accept : 10000
+
+Send : 840926 byte/s Recv : 26372000 byte/s Auth : 0 fps Game : 26376 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1997
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1439
+SesStackAlloc : 1934 SesStackUse : 1317
+Total Connect : 10000 Accept : 10000
+
+Send : 1122331 byte/s Recv : 30766000 byte/s Auth : 0 fps Game : 30767 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1933
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1386
+SesStackAlloc : 1934 SesStackUse : 830
+Total Connect : 10000 Accept : 10000
+
+Send : 343114 byte/s Recv : 28075000 byte/s Auth : 0 fps Game : 28076 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1872
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1556
+SesStackAlloc : 1934 SesStackUse : 674
+Total Connect : 10000 Accept : 10000
+
+Send : 139012 byte/s Recv : 29378000 byte/s Auth : 0 fps Game : 29378 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1983
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1811
+SesStackAlloc : 1934 SesStackUse : 585
+Total Connect : 10000 Accept : 10000
+
+Send : 496018 byte/s Recv : 27068000 byte/s Auth : 0 fps Game : 27068 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2038
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1977
+SesStackAlloc : 1934 SesStackUse : 379
+Total Connect : 10000 Accept : 10000
+
+Send : 548021 byte/s Recv : 25927000 byte/s Auth : 0 fps Game : 25927 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2012
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 2098
+SesStackAlloc : 1934 SesStackUse : 148
+Total Connect : 10000 Accept : 10000
+
+Send : 124338 byte/s Recv : 5735000 byte/s Auth : 0 fps Game : 5736 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2030
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1934
+SesStackAlloc : 1934 SesStackUse : 858
+Total Connect : 10000 Accept : 10000
+
+Send : 319792 byte/s Recv : 8338000 byte/s Auth : 0 fps Game : 8347 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2012
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1250
+SesStackAlloc : 1934 SesStackUse : 1813
+Total Connect : 10000 Accept : 10000
+
+Send : 1213710 byte/s Recv : 30476000 byte/s Auth : 0 fps Game : 30475 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2159
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1290
+SesStackAlloc : 1934 SesStackUse : 1196
+Total Connect : 10000 Accept : 10000
+
+Send : 1048984 byte/s Recv : 34635000 byte/s Auth : 0 fps Game : 34635 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2422
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1398
+SesStackAlloc : 1934 SesStackUse : 752
+Total Connect : 10000 Accept : 10000
+
+Send : 148534 byte/s Recv : 19554000 byte/s Auth : 0 fps Game : 19554 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2301
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1568
+SesStackAlloc : 1934 SesStackUse : 684
+Total Connect : 10000 Accept : 10000
+
+Send : 226090 byte/s Recv : 35671000 byte/s Auth : 0 fps Game : 35675 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 2078
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1855
+SesStackAlloc : 1934 SesStackUse : 582
+Total Connect : 10000 Accept : 10000
+
+Send : 675671 byte/s Recv : 16073000 byte/s Auth : 0 fps Game : 16074 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1874
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1813
+SesStackAlloc : 1934 SesStackUse : 291
+Total Connect : 10000 Accept : 10000
+
+Send : 303715 byte/s Recv : 19891000 byte/s Auth : 0 fps Game : 19893 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1880
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1944
+SesStackAlloc : 1934 SesStackUse : 156
+Total Connect : 10000 Accept : 10000
+
+Send : 232553 byte/s Recv : 1172000 byte/s Auth : 0 fps Game : 1172 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 1794
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1661
+SesStackAlloc : 1934 SesStackUse : 1075
+Total Connect : 10000 Accept : 10000
+
+Send : 3929964 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 10000 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 100
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 9215 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 93
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
+Send : 0 byte/s Recv : 0 byte/s Auth : 0 fps Game : 0 fps
+Session : 4750 Accept : 10000 MemoryAlloc : 2789 MemoryUse : 9
+PacketAlloc : 16 PacketUse : 9 PlayerAlloc : 100 PlayerUse : 49
+Auth : 14 Game : 17
+SesQueAlloc : 2208 SesQueUse : 1357
+SesStackAlloc : 1934 SesStackUse : 9
+Total Connect : 10000 Accept : 10000
+
